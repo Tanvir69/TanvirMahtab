@@ -13,10 +13,9 @@ redirect_from:
 ### B.Sc. in Computer Science and Engineering
 
 
-* Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
-* **CGPA:  3.923** [*out of 4.00*]
-* **1<sup>st</sup>** in Merit Position
-* **Thesis title:** ["Early Depression Detection from Social Media Using Deep Learning Techniques"](https://Farzad-1996.github.io/files/Farzad_B.Sc._Thesis.pdf) 
+* BRAC University, Dhaka, Bangladesh.
+* **CGPA:  3.86** [*out of 4.00*]
+* **Thesis title:** ["Detection Of Skin Cancer Using Deep Neural Networks"](https://tanvir.mahtab.github.io/files/Tanvir_B.Sc._Thesis.pdf) 
 * **Supervisor:** [Faisal Muhammad Shah](https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en), Associate Professor, Department of CSE, AUST
 
 <br /> 
