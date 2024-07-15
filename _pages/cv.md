@@ -77,6 +77,6 @@ Tel: +88 09638464646<br />
 Bangladesh <br /> 
 </address> 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29211.984706994335!2d90.3892496426291!3d23.765271285386756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c77decb5f845%3A0xc2eadd2f3b867792!2sAhsanullah%20University%20of%20Science%20and%20Technology!5e0!3m2!1sen!2sbd!4v1657228241461!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe> 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58399.24688060971!2d90.32599877575217!3d23.820272777145547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c7715a40c603%3A0xec01cd75f33139f5!2sBRAC%20University!5e0!3m2!1sen!2sbd!4v1721039120849!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br /> 
 __________________________________________________________
