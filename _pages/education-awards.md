@@ -25,9 +25,9 @@ redirect_from:
 
 
 ### Academic Achievements
-**VC's List**: Recognized on the VC's List for academic excellence during Fall 2016 to Spring 2018, and Fall 2018.
+**VC's List**: Recognized on the VC's List for academic excellence during Fall 2016 to Spring 2018, and Fall 2018. <br />
 **Dean's List**: Achieved placement on the Dean's List in Summer 2019.
-- 
+---
 ### BRAC Performance Scholarship, 75%
 **Institution**: BRAC University  
 **Location**: Dhaka, Bangladesh  
