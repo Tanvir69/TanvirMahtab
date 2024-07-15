@@ -14,7 +14,9 @@ redirect_from:
 
 * BRAC University, Dhaka, Bangladesh.
 * **CGPA:  3.86** [*out of 4.00*]
-* **Thesis title:** ["Detection Of Skin Cancer Using Deep Neural Networks"](https://tanvir.mahtab.github.io/files/Tanvir_B.Sc._Thesis.pdf) 
+* **Thesis title:** ["Detection Of Skin Cancer Using Deep Neural Networks"](https://tanvir.mahtab.github.io/files/Tanvir_B.Sc._Thesis.pdf)
+* **Thesis Presentation:** [Download Presentation Slide]
+(https://tanvir.mahtab.github.io/files/SkinCancerDetectionusingImageProcessingandDeepLearning.pptx)
 * **Supervisor:** [Dr. Md. Ashraful Alam](https://scholar.google.com/citations?user=NDJ6mRUAAAAJ), Associate Professor, Department of CSE, BRAC University
   
 ---
