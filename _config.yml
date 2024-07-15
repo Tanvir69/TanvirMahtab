@@ -86,7 +86,7 @@ author:
   location         : "Mohammadpur,Dhaka,Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=tFYmHMsAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=tFYmHMsAAAAJ&hl=en"
   DBLP             : 
   email            :  tanvirmahtab516@gmail.com
   researchgate     :  "https://www.researchgate.net/profile/Mohammad-Mahtab-2"
