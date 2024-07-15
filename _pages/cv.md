@@ -10,32 +10,60 @@ redirect_from:
 ## Education 
 -------------
 <b>B.Sc., Computer Science and Engineering</b><br />
-Ahsanullah University of Science and Technology<br />
+BRAC University<br />
 Dhaka, Bangladesh<br />
-<i style='color:#000099;'>**Fall 2015 - Spring 2019**</i>
+<i style='color:#000099;'>**Spring 2016 - Fall 2019**</i>
 
 ## Employment 
 -------------
-<b>Lecturer</b><br />
-Department of Computer Science and Engineering <br/>
-Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>**December 2020 - Present**</i><br/>
+
+<b>Trainee Officer, IT</b><br />
+DHAKA BANK PLC.<br />
+Dhaka, Bangladesh<br />
+<i style='color:#000099;'>Oct 2023 - Present</i><br/>
+<ul>
+  <li>Develop, design and consume REST/SOAP APIs to integrate into various banking systems using .NET (C#)</li>
+  <li>Consulting with vendors to review and validate banking system programs, ensuring seamless integration and possessing in-depth knowledge for troubleshooting and enhancements.</li>
+  <li>Implemented several API microservices in .NET for banking services.</li>
+  <li>General Banking operations, maintain various banking software, servers and specialize in troubleshooting and enhancements for seamless integration.</li>
+  <li>Designed a mockup for a single-page website using Figma for vendor development.</li>
+  <li>Created approval for Implementation of new Dhaka Bank Go Plus Mobile App & New Corporate Portal for Dhaka Bank PLC.</li>
+</ul>
+
+<b>Candidate Resource Officer</b><br />
+GSL Education<br />
+Dhaka, Bangladesh & Leicester, UK<br />
+<i style='color:#000099;'>April 2023 - Oct 2023</i><br/>
+<ul>
+  <li>Conduct recruitment, advertising, and candidate sourcing activities through prominent UK job portals, including CV Library, REED, and Indeed.</li>
+  <li>Thoroughly authenticate and verify compliance documents across various business areas, while also performing data entry tasks on Salesforce and Access Recruitment CRM.</li>
+  <li>Effectively communicate with and target prospective clients and candidates through email or direct phone calls, primarily for registration, document tracking, and verification purposes.</li>
+</ul>
 
 <b>Contractual Lecturer</b><br />
-Department of Computer Science and Engineering <br/>
-Ahsanullah University of Science and Technology<br />
-<i style='color:#000099;'>**February 2020 - December 2020**</i>
+Department of Computer Science and Engineering<br />
+BRAC University<br />
+Dhaka, Bangladesh<br />
+<i style='color:#000099;'>Jan 2020 - May 2022</i><br/>
+<ul>
+  <li>Taking classes, assigning homework, giving feedback, evaluating exam scripts and assisting students with research.</li>
+  <li><b>Courses taught:</b><br />
+    Introduction to Computer Science, Programming Language I, Programming Language II, Data Structures, Operating Systems, Numerical Methods, Computer Interfacing, Introduction to Robotics, System Analysis and Design, Mobile Application.
+  </li>
+</ul>
 
-[Download Full CV](https://farzad-1996.github.io/files/FarzadAhmedCV.pdf) [<ins>*Last Updated on August 9, 2022*</ins>]
+
+
+[Download Full CV](https://tanvir.mahtab.github.io/files/TanvirMahtabCV.pdf) [<ins>*Last Updated on July 15, 2024*</ins>]
 
 ## Contact Me
 -------------
 
-**Email:** farzadahmed6 [at] gmail [dot] com <br /> 
+**Email:** tanvirmahtab516 [at] gmail [dot] com <br /> 
  <br /> 
-**Website:** [https://farzad-1996.github.io](https://farzad-1996.github.io/) <br />
+**Website:** [https://tanvir.mahtab.github.io](https://tanvir.mahtab.github.io/) <br />
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?user=tFYmHMsAAAAJ&hl=en), [Github](https://github.com/farzad-1996).
+You can also find me on [Research Gate](https://www.researchgate.net/profile/Mohammad-Mahtab-2), [Github](https://github.com/Tanvir69).
 
 
 **Address:**
