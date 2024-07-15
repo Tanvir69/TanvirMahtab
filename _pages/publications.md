@@ -15,7 +15,7 @@ author_profile: true
 **Year:** 2020  
 [DOI:10.1109/CSDE48274.2019.9162400](https://ieeexplore.ieee.org/document/9162400/LaTeX/Hyperlinks)  
 *2019 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)*
-[Download Presentation Slide](https://tanvir.mahtab.github.io/files/Skin Cancer Detection using Image Processing and Deep Learning.pptx)
+[Download Presentation Slide](https://tanvir.mahtab.github.io/files/SkinCancerDetectionusingImageProcessingandDeepLearning.pptx)
 
 ### Bangla Sign Language Recognition and Sentence Building Using Deep Learning
 **04 citations & 123 full text views**  
