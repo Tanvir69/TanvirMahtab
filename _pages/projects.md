@@ -8,9 +8,6 @@ author_profile: true
 ## Ongoing Projects
 ----------------
 
-### [2020 - *Current*]
------------
-### [2024 - *Current*]
 -----------
 * Service Portal
   - **Role:** Software Project
