@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Md. Tanvir Mahtab"
 title_separator          : "-"
-name                     : &name "Farzad Ahmed"
+name                     : &name "Tanvir Mahtab"
 description              : &description "personal description"
-url                      : https://Farzad-1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tanvir69.github.io/TanvirMahtab/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Farzad-1996/Farzad-1996.github.io"
+repository               : "TanvirMahtab/tanvir69.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Farzad Ahmed"
-  avatar           : "Farzad.jpg"
+  name             : "Md. Tanvir Mahtab"
+  avatar           : "TanvirMahtab.jpg"
   bio              : "Dream Big or Go Home"
-  location         : "Fairfax, VA, USA"
+  location         : "Mohammadpur,Dhaka,Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tFYmHMsAAAAJ&hl=en"
   DBLP             : 
   email            :  pwg7jb@virginia.edu
-  researchgate     :  "https://www.researchgate.net/profile/Farzad-Ahmed"
+  researchgate     :  "https://www.researchgate.net/profile/Mohammad-Mahtab-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Farzad-1996"
+  github           : "Tanvir69"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin.com/in/farzad-ahmed-3b151a13a"
+  linkedin         : "linkedin.com/in/tanvir-mahtab-057b2215a/"
   orcid            : 
   pinterest        :
   soundcloud       :
