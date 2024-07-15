@@ -69,7 +69,10 @@ You can also find me on [Research Gate](https://www.researchgate.net/profile/Moh
 **Address:**
 <address>
 Department of Computer Science <br /> 
-Ahsanullah University of Science and Technology<br /> 
+Kha 224 Bir Uttam Rafiqul Islam Avenue
+Merul Badda <br /> 
+Dhaka 1212. Bangladesh <br /> 
+Tel: +88 09638464646<br /> 
 141 & 142, Love Rd, Dhaka 1208 <br />
 Bangladesh <br /> 
 </address> 
