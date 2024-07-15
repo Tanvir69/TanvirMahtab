@@ -27,7 +27,7 @@ I am Md. Tanvir Mahtab, an IT Officer, at <a href="https://dhakabankltd.com/">DH
 * <span style="color:Blue"> [December 16, 2020] </span> - Two papers got accepted at [CSDE 2020](https://ieeexplore.ieee.org/xpl/conhome/9411519/proceeding).
 * <span style="color:Blue"> [December 10, 2019] </span> - One paper got accepted at [CSDE 2019](https://ieeexplore.ieee.org/xpl/conhome/9153550/proceeding).
 * <span style="color:Blue"> [January 15, 2020] </span> - Joined as a Contractual Lecturer in the [Department of CSE, BRAC University](https://www.bracu.ac.bd/).
-* <span style="color:Blue"> [August 28, 2019]  </span> - Successfully defended my [B.Sc. Thesis](https://Farzad-1996.github.io/files/Farzad_B.Sc._Thesis.pdf). 
+* <span style="color:Blue"> [August 28, 2019]  </span> - Successfully defended my [B.Sc. Thesis](https://tanvir69.github.io/files/Farzad_B.Sc._Thesis.pdf). 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=52vxgbx02tg&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
