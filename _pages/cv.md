@@ -54,7 +54,7 @@ Dhaka, Bangladesh<br />
 
 
 
-[Download Full CV](https://tanvir69.github.io/Tanvir.Mahtab/files/TanvirMahtabCV.pdf) [<ins>*Last Updated on July 15, 2024*</ins>]
+[Download Full CV](https://tanvir69.github.io/TanvirMahtab/files/TanvirMahtabCV.pdf) [<ins>*Last Updated on July 15, 2024*</ins>]
 
 ## Contact Me
 -------------
