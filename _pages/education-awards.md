@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
 # Education
 
 ### B.Sc. in Computer Science and Engineering
@@ -17,16 +16,16 @@ redirect_from:
 * **CGPA:  3.86** [*out of 4.00*]
 * **Thesis title:** ["Detection Of Skin Cancer Using Deep Neural Networks"](https://tanvir.mahtab.github.io/files/Tanvir_B.Sc._Thesis.pdf) 
 * **Supervisor:** [Dr. Md. Ashraful Alam](https://scholar.google.com/citations?user=NDJ6mRUAAAAJ), Associate Professor, Department of CSE, BRAC University
+  
+---
+# Participation Honors and Awards
 
-<br /> 
-# Participation and Awards
-
-## Honors and Awards
-
+---
 
 ### Academic Achievements
-**VC's List**: Recognized on the VC's List for academic excellence during Fall 2016 to Spring 2018, and Fall 2018. <br />
-**Dean's List**: Achieved placement on the Dean's List in Summer 2019.
+**VC's List**: Recognized on the VC's List for academic excellence during **Fall 2016** to **Spring 2018**, and **Fall 2018**. <br />
+**Dean's List**: Achieved placement on the Dean's List in **Summer 2019**.
+
 ---
 ### BRAC Performance Scholarship, 75%
 **Institution**: BRAC University  
