@@ -15,7 +15,7 @@ Greetings!!!
 I am Md. Tanvir Mahtab, an IT Officer, at <a href="https://dhakabankltd.com/">DHAKA BANK PLC.</a>, Dhaka, Bangladesh. Previously I worked as a Lecturer in the <a href="https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering">Department of CSE</a> at  <a href="https://www.bracu.ac.bd/">BRAC University</a> . I have completed B.Sc. in Computer Science and Engineering from <a href="https://www.bracu.ac.bd/">BRAC University</a>, Dhaka, Bangladesh. My primary research interest lies in Machine Learning Applications, Natural Language Processing, Computer Vision, Multi-Criteria Decision Making (MCDM) and Image Processing.<br /><br /></div>
    
 
-**For additional information, please see the [CV](http://tanvir69.github.io//TanvirMahtab/cv/) and [publications](http://tanvir69.github.io//TanvirMahtab/publications/).**
+**For additional information, please see the [CV](http://tanvir69.github.io/TanvirMahtab/cv/) and [publications](http://tanvir69.github.io/TanvirMahtab/publications/).**
 
 -----------
 
